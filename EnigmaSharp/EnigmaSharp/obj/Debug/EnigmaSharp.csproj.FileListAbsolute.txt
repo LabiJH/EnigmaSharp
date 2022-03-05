@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2012\Projects\EnigmaSharp\EnigmaSharp\bin\Debug\EnigmaSharp.exe.config
+c:\users\user\documents\visual studio 2012\Projects\EnigmaSharp\EnigmaSharp\obj\Debug\EnigmaSharp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\EnigmaSharp\EnigmaSharp\obj\Debug\EnigmaSharp.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\EnigmaSharp\EnigmaSharp\obj\Debug\EnigmaSharp.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\EnigmaSharp\EnigmaSharp\bin\Debug\EnigmaSharp.exe
+c:\users\user\documents\visual studio 2012\Projects\EnigmaSharp\EnigmaSharp\bin\Debug\EnigmaSharp.pdb
+c:\users\user\documents\visual studio 2012\Projects\EnigmaSharp\EnigmaSharp\obj\Debug\EnigmaSharp.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\EnigmaSharp\EnigmaSharp\obj\Debug\EnigmaSharp.exe
+c:\users\user\documents\visual studio 2012\Projects\EnigmaSharp\EnigmaSharp\obj\Debug\EnigmaSharp.pdb
+E:\Oberstufe\Projektwoche\EnigmaSharp\EnigmaSharp\bin\Debug\EnigmaSharp.exe.config
+E:\Oberstufe\Projektwoche\EnigmaSharp\EnigmaSharp\obj\Debug\EnigmaSharp.exe
+E:\Oberstufe\Projektwoche\EnigmaSharp\EnigmaSharp\obj\Debug\EnigmaSharp.pdb
+E:\Oberstufe\Projektwoche\EnigmaSharp\EnigmaSharp\bin\Debug\EnigmaSharp.exe
+E:\Oberstufe\Projektwoche\EnigmaSharp\EnigmaSharp\bin\Debug\EnigmaSharp.pdb
+E:\Oberstufe\Projektwoche\EnigmaSharp\EnigmaSharp\obj\Debug\EnigmaSharp.csprojResolveAssemblyReference.cache
+E:\Oberstufe\Projektwoche\EnigmaSharp\EnigmaSharp\obj\Debug\EnigmaSharp.Form1.resources
+E:\Oberstufe\Projektwoche\EnigmaSharp\EnigmaSharp\obj\Debug\EnigmaSharp.Properties.Resources.resources
+E:\Oberstufe\Projektwoche\EnigmaSharp\EnigmaSharp\obj\Debug\EnigmaSharp.csproj.GenerateResource.Cache
